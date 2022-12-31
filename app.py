@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask import request
 from flask_cors import cross_origin
-import sklearn
+import scikit-learn
 import pickle
 import pandas as pd
 
